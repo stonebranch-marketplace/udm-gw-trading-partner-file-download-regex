@@ -1,5 +1,5 @@
 # udm-gw-trading-partner-file-download-regex
-Universal Task to automate File Transfer activities in UDM Gateway.
+Universal Task to automate Trading Partner File Download using a Regex or Generic Filename Pattern in UDM Gateway.
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
