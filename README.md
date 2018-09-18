@@ -1,5 +1,5 @@
 # udm-gw-trading-partner-file-download-regex
-UDM Script to automate Trading Partner File Download using a Regex or Generic Filename Pattern in UDM Gateway.
+UDM Gateway Script to Automate Trading Partner File Download Using a Regex or Generic Filename Pattern.
 
 # Disclaimer
 No support and no warranty are provided by Stonebranch GmbH for this document and the related Universal Task. The use of this document and the related Universal Task is on your own risk.
